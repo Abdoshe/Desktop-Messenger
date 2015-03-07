@@ -1,0 +1,15 @@
+Moderation Tools
+Customiseable chat toolbar (to hide access to emoticons, etc.)
+	
+VoIP capabilities
+	
+Access to other messaging services
+
+Advanced image (file) sharing tools (w/ sharing sessions)
+
+Plaintext image URL parsing and preview
+
+Custom keyboard assigners for emoticons with exportable profiles
+
+Non-image uploads are handled by secure-upload services such as Mega.
+Images are handled by non-compressing image hosts.
